@@ -1,6 +1,7 @@
 {
   "name": "calculator",
   "private": true,
+  "homepage":"https://ManasRanjanBariha.github.io/Calculator/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
